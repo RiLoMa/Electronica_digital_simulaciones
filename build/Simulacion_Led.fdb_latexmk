@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1748046949.02603 "c:/Users/mtzro/Desktop/SERVICIO/Electronica_digital_simulaciones/Simulacion_Led.tex" "build/Simulacion_Led.pdf" "Simulacion_Led" 1748046952.94625 0
+["pdflatex"] 1748049383.78792 "c:/Users/mtzro/Desktop/SERVICIO/Electronica_digital_simulaciones/Simulacion_Led.tex" "build/Simulacion_Led.pdf" "Simulacion_Led" 1748049386.99527 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1233951848 1120 200be8b775682cdf80acad4be5ef57e4 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -194,9 +194,9 @@
   "C:/Users/mtzro/AppData/Roaming/MiKTeX/tex/latex/mathtools/mhsetup.sty" 1728300125 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
   "C:/Users/mtzro/AppData/Roaming/MiKTeX/tex/latex/mdframed/md-frame-0.mdf" 1372708085 24831 326d9f019009ed0c076106fa6cb860fb ""
   "C:/Users/mtzro/AppData/Roaming/MiKTeX/tex/latex/mdframed/mdframed.sty" 1372708085 53487 3e997243f47cb3ba8b4c7b8df9c82989 ""
-  "Simulacion_Led.tex" 1748046831 2982 e1e2181cec7d42f63b0a75ff64b8f15e ""
-  "build/Simulacion_Led.aux" 1748046952 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "c:/Users/mtzro/Desktop/SERVICIO/Electronica_digital_simulaciones/Simulacion_Led.tex" 1748046831 2982 e1e2181cec7d42f63b0a75ff64b8f15e ""
+  "Simulacion_Led.tex" 1748049381 2984 9c414ca68c6d030b6064cfa2e1f3a0d4 ""
+  "build/Simulacion_Led.aux" 1748049386 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "c:/Users/mtzro/Desktop/SERVICIO/Electronica_digital_simulaciones/Simulacion_Led.tex" 1748049381 2984 9c414ca68c6d030b6064cfa2e1f3a0d4 ""
   (generated)
   "build/Simulacion_Led.aux"
   "build/Simulacion_Led.log"
